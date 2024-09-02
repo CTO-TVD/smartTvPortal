@@ -1,0 +1,24 @@
+{
+  "id": "de.telekom.magentatv",
+  "title": "MagentaTV",
+  "main": "index.html",
+  "icon": "iconLG.png",
+  "largeIcon": "largeIconLG.png",
+  "type": "web",
+  "vendor": "Telekom Deutschland GmbH",
+  "version": "1.5.0",
+  "appDescription": "TV & Streaming",
+  "resolution": "1920x1080",
+  "iconColor": "white",
+  "closeOnRotation": true,
+  "disableBackHistoryAPI": true,
+  "handlesRelaunch": false, 
+  "splashBackground": "LG_background_image.png",
+  "splashColor": "gray",
+  "splashFitModeOnPortrait": "none",
+  "supportPortraitMode": false,
+  "supportTouchMode": "none",
+  "accessibility": {
+    "supportsAudioGuidance": false
+  }
+}
